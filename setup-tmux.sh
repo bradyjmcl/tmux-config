@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # copy conf file
 mkdir -p ~/.config/tmux/plugins/catppuccin
